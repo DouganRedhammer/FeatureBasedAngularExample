@@ -2,16 +2,16 @@
 Feature Based Angular Project
 
 Build Instructions:
-npm install
-bower install
-grunt dev
+<br /> npm install
+<br /> bower install
+<br /> grunt dev
 
 To Run:
-Start your favorite local web server in the root directory
+<br /> Start your favorite local web server in the root directory
 
-available routes
-/
-/home
-/blog
+Routes
+<br />  /
+<br /> /home
+<br /> /blog
 
 / defaults to /home
